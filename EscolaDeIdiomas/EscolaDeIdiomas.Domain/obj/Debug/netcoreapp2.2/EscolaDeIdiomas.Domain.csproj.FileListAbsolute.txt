@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\escoladeidiomas\EscolaDeIdiomas.Domain\bin\Debug\netcoreapp2.2\EscolaDeIdiomas.Domain.deps.json
+C:\Users\Dell\source\repos\escoladeidiomas\EscolaDeIdiomas.Domain\bin\Debug\netcoreapp2.2\EscolaDeIdiomas.Domain.dll
+C:\Users\Dell\source\repos\escoladeidiomas\EscolaDeIdiomas.Domain\bin\Debug\netcoreapp2.2\EscolaDeIdiomas.Domain.pdb
+C:\Users\Dell\source\repos\escoladeidiomas\EscolaDeIdiomas.Domain\obj\Debug\netcoreapp2.2\EscolaDeIdiomas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\escoladeidiomas\EscolaDeIdiomas.Domain\obj\Debug\netcoreapp2.2\EscolaDeIdiomas.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\escoladeidiomas\EscolaDeIdiomas.Domain\obj\Debug\netcoreapp2.2\EscolaDeIdiomas.Domain.AssemblyInfo.cs
+C:\Users\Dell\source\repos\escoladeidiomas\EscolaDeIdiomas.Domain\obj\Debug\netcoreapp2.2\EscolaDeIdiomas.Domain.dll
+C:\Users\Dell\source\repos\escoladeidiomas\EscolaDeIdiomas.Domain\obj\Debug\netcoreapp2.2\EscolaDeIdiomas.Domain.pdb
